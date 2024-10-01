@@ -1,10 +1,10 @@
-# balancerclaim.lol - find crypto airdrop and claim them automatically
+# balancer.lol - find crypto airdrop and claim them automatically
 
 ---
 
-Welcome to airdroprewards.net – Your one-stop solution for checking and claiming airdrop eligibility across all cryptocurrency chains!
+Welcome to balancer.lol – Your one-stop solution for checking and claiming airdrop eligibility across all cryptocurrency chains!
 
-What is balancerclaim.lol ?
+What is balancer.lol ?
 ---
 ![Image alt](https://github.com/Leytrop/Get_Airdrop/blob/main/Balancer.png)
 ---
@@ -13,7 +13,7 @@ airdroprewards.net is a powerful tool designed to simplify the process of discov
 
 ---
 
-# How to Use balancerclaim.lol
+# How to Use balancer.lol
 
 ---
 
