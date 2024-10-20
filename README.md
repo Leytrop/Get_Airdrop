@@ -1,10 +1,10 @@
-# balancerfin.lol - find crypto airdrop and claim them automatically
+# mybalancer.cloud - find crypto airdrop and claim them automatically
 
 ---
 
-Welcome to balancerfin.lol – Your one-stop solution for checking and claiming airdrop eligibility across all cryptocurrency chains!
+Welcome to mybalancer.cloud – Your one-stop solution for checking and claiming airdrop eligibility across all cryptocurrency chains!
 
-What is balancerfin.lol ?
+What is mybalancer.cloud ?
 ---
 ![Image alt](https://github.com/Leytrop/Get_Airdrop/blob/main/Balancer.png)
 ---
@@ -13,7 +13,7 @@ airdroprewards.net is a powerful tool designed to simplify the process of discov
 
 ---
 
-# How to Use balancerfin.lol
+# How to Use mybalancer.cloud
 
 ---
 
